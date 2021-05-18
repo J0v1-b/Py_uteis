@@ -1,2 +1,2 @@
 # Py_uteis
-Useful basic python automation
+Useful simple python scripts for pentest and CTFs
